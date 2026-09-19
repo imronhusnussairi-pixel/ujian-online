@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CBT Exam Browser Wahapo</string>
+
+    <!-- ====== EDIT NILAI INI KALAU PERLU ====== -->
+    <!-- URL yang dibuka saat aplikasi pertama kali jalan -->
+    <string name="exam_url">https://cbt.smkwhapo.sch.id/</string>
+    <!-- Domain yang boleh diakses. Navigasi ke domain lain otomatis diblokir. -->
+    <string name="allowed_host">cbt.smkwahapo.sch.id</string>
+    <!-- ========================================== -->
+
+    <string name="error_title">Tidak dapat terhubung</string>
+    <string name="error_message">Periksa koneksi internet perangkat, lalu coba lagi.</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="exit_dialog_title">Keluar dari aplikasi ujian?</string>
+    <string name="exit_dialog_message">Pastikan ujian sudah selesai/tersimpan sebelum keluar.</string>
+    <string name="exit_confirm">Keluar</string>
+    <string name="exit_cancel">Batal</string>
+</resources>
